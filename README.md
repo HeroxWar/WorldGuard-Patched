@@ -17,18 +17,18 @@ This is a patched version of WorldGuard that has many changes from the original 
 
 ## How to create a patch from last commit
 
-run the following command in the folder work/WorldGuard/
+run the following command in the folder `work/WorldGuard/`
 
 ```shell
-git format-patch -1 -o ../../patches/
+git format-patch -1 -o ../../patches/ --start-number ((dir ../../patches/).Count + 1)
 ```
 
 ## How to Apply Patches
 
-run the following command in the root directory of the project (Powershell)
+run the following command in the folder `work/WorldGuard/` directory of the project (Powershell)
 
 ```shell
-git am --directory work/WorldGuard/ (dir patches/*.patch) --3way
+git am (dir ../../patches/*.patch) --3way
 ```
 
 ## How to Remove Patches
