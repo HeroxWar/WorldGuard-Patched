@@ -2,11 +2,11 @@
 
 # WorldGuard "PATCHED"
 
-![WorldGuard Logo](https://github.com/EngineHub/WorldGuard/blob/master/worldguard-logo.png?raw=true)
+[![WorldGuard Logo](https://github.com/EngineHub/WorldGuard/blob/master/worldguard-logo.png?raw=true)](https://github.com/EngineHub/WorldGuard)
 
 This is a patched version of WorldGuard that has many changes from the original version.
 
-[![Current WorldGuard version](https://badgen.net/badge/Current%20WorldGuard/v7.0.9-SNAPSHOT/blue?icon=github)](https://github.com/EngineHub/WorldGuard/tree/version/7.0.x) [![Official WorldGuard version](https://badgen.net/github/tag/EngineHub/WorldGuard?label=Official%20WorldGuard%20Version&icon=github&color=blue)](https://github.com/EngineHub/WorldGuard/tags)
+[![Current WorldGuard Patched](https://badgen.net/badge/Current%20WorldGuard%20Patch/v7.0.9-SNAPSHOT/blue?icon=github)](https://github.com/EngineHub/WorldGuard/tree/version/7.0.x) [![Official WorldGuard version](https://badgen.net/github/tag/EngineHub/WorldGuard?label=Official%20WorldGuard%20Version&icon=github&color=blue)](https://github.com/EngineHub/WorldGuard/tags)
 </div>
 
 ### Changes
