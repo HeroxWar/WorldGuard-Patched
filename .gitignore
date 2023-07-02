@@ -1,0 +1,22 @@
+bin/
+target/
+plugins/
+sonar/
+work/WorldGuard/
+.settings/
+.idea/
+.vscode/
+
+dependency-reduced-pom.xml
+
+.classpath
+.factorypath
+.project
+*.iml
+*.bak
+.DS_Store
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
