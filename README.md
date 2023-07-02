@@ -28,7 +28,7 @@ git format-patch -1 -o ../../patches/
 run the following command in the root directory of the project (Powershell)
 
 ```shell
-git apply --directory work/WorldGuard/ --ignore-whitespace (dir patches/*.patch)
+git am --directory work/WorldGuard/ (dir patches/*.patch) --3way
 ```
 
 ## How to Remove Patches
