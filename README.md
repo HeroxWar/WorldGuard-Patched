@@ -31,6 +31,14 @@ run the following command in the root directory of the project (Powershell)
 git apply --directory work/WorldGuard/ --ignore-whitespace (dir patches/*.patch)
 ```
 
+## How to Remove Patches
+
+run the following command in the root directory of the project
+
+```shell
+git restore . --recurse-submodules
+```
+
 ## How to check DIFF
 
 run the following command in the root directory of the project
