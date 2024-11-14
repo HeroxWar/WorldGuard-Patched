@@ -34,6 +34,12 @@ This is a patched version of WorldGuard that has many changes from the original 
 2. Go inside the submodule folder `work/WorldGuard/`
 3. Now you can run the compile commands ([see below](#how-to-build))
 
+#### If you want to update the submodules to the last version
+
+1. Be sure to save the current patches before to continue
+2. In project root folder type `git submodule update --remote --force`
+3. Now you can applay again the patches ([see below](#how-to-apply-patches))
+
 ---
 <br/>
 <br/>
