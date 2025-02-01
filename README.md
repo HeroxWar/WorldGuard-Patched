@@ -74,7 +74,7 @@ git restore . --recurse-submodules
 
 Be sure to follow the "[Getting started steps](#getting-started)" first
 
-> ⚠ Required Java 17 or higher!
+> ⚠ Required Java **21** (only)!
 
 Run the following command in the folder `work/WorldGuard/`
 

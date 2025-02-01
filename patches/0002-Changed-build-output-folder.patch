@@ -1,4 +1,4 @@
-From 74055c17b57a7cee4fbc8a8923e403518636df79 Mon Sep 17 00:00:00 2001
+From 35b9f7ceb0f3f6d5eb36b1c118fbb7b0cb3c66d6 Mon Sep 17 00:00:00 2001
 From: xSavior_of_God <micga68@gmail.com>
 Date: Sun, 2 Jul 2023 17:01:57 +0200
 Subject: [PATCH] Changed build output folder
@@ -8,17 +8,17 @@ Subject: [PATCH] Changed build output folder
  1 file changed, 1 insertion(+)
 
 diff --git a/worldguard-bukkit/build.gradle.kts b/worldguard-bukkit/build.gradle.kts
-index 5a03aa8a..450804ad 100644
+index efa607c5..10dca406 100644
 --- a/worldguard-bukkit/build.gradle.kts
 +++ b/worldguard-bukkit/build.gradle.kts
-@@ -62,6 +62,7 @@ tasks.named<ShadowJar>("shadowJar") {
-             include(dependency("co.aikar:minecraft-timings"))
-         }
+@@ -42,6 +42,7 @@ tasks.named<ShadowJar>("shadowJar") {
+         relocate("org.bstats", "com.sk89q.worldguard.bukkit.bstats")
+         relocate("io.papermc.lib", "com.sk89q.worldguard.bukkit.paperlib")
      }
 +    destinationDirectory.set(file("$buildDir/../../../../build"))
  }
  
  tasks.named("assemble").configure {
---
-2.38.1.windows.1
+-- 
+2.47.0.windows.2
 
