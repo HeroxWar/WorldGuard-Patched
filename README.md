@@ -6,7 +6,7 @@
 
 This is a patched version of WorldGuard that has many changes from the original version.
 
-[![Current WorldGuard Patched](https://badgen.net/badge/Current%20WorldGuard%20Patch/v7.0.14-SNAPSHOT-98b5220/blue?icon=github)](https://github.com/EngineHub/WorldGuard/tree/98b52206a0e9c2a13cf7efc5fc2b3c81d71aa658) [![Official WorldGuard version](https://badgen.net/github/tag/EngineHub/WorldGuard?label=Official%20WorldGuard%20Version&icon=github&color=blue)](https://github.com/EngineHub/WorldGuard/tags)
+[![Current WorldGuard Patched](https://badgen.net/badge/Current%20WorldGuard%20Patch/v7.0.14-SNAPSHOT-c4c17a2/blue?icon=github)](https://github.com/EngineHub/WorldGuard/tree/c4c17a2e4f7a090ce030e32d9ccb0024b6abe0d8) [![Official WorldGuard version](https://badgen.net/github/tag/EngineHub/WorldGuard?label=Official%20WorldGuard%20Version&icon=github&color=blue)](https://github.com/EngineHub/WorldGuard/tags)
 </div>
 
 ### Changes
