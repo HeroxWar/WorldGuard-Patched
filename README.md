@@ -6,7 +6,7 @@
 
 This is a patched version of WorldGuard that has many changes from the original version.
 
-[![Current WorldGuard Patched](https://badgen.net/badge/Current%20WorldGuard%20Patch/v7.0.17-SNAPSHOT-8783e2b/blue?icon=github)](https://github.com/EngineHub/WorldGuard/tree/8783e2bac65ffe3997395cbe6173f4bd26a6db8f) [![Official WorldGuard version](https://badgen.net/github/tag/EngineHub/WorldGuard?label=Official%20WorldGuard%20Version&icon=github&color=blue)](https://github.com/EngineHub/WorldGuard/tags)
+[![Current WorldGuard Patched](https://badgen.net/badge/Current%20WorldGuard%20Patch/v7.0.17-SNAPSHOT-20eb298/blue?icon=github)](https://github.com/EngineHub/WorldGuard/tree/20eb298cacbf4519222884b0178ed779d614f8fa) [![Official WorldGuard version](https://badgen.net/github/tag/EngineHub/WorldGuard?label=Official%20WorldGuard%20Version&icon=github&color=blue)](https://github.com/EngineHub/WorldGuard/tags)
 </div>
 
 ### Changes
@@ -79,7 +79,7 @@ Be sure to follow the "[Getting started steps](#getting-started)" first
 Run the following command in the folder `work/WorldGuard/`
 
 ```shell
-gradlew build -S
+.\gradlew build -S
 ```
 
 You will find WorldGuard for Bukkit in the folder `build` or follow the instructions
